@@ -1,4 +1,34 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728844749155 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728845435136 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728845438210 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728845441344 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728845444468 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728845447538 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728845450612 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728845454140 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -6,67 +36,47 @@ as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728844764269 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845463231 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844767383 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845466348 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844770471 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845469428 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844773603 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845472501 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844776673 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845475602 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844779761 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845478678 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844782835 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845481769 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844785906 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845484868 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844788982 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844792060 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844795152 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844798310 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844801381 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845487934 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -74,40 +84,27 @@ as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728844816486 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845503136 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844819746 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845506244 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844823417 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845509387 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844826496 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845512476 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728844841647 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844844717 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844847803 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845515577 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -115,35 +112,17 @@ as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728844862914 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845530706 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844866000 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845533775 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844869089 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728844884234 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844887300 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844890371 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845536846 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -151,48 +130,21 @@ as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728844905480 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845551962 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844908559 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845555038 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844911640 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728845558202 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844914716 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844917800 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844920866 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844923937 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844927004 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844930069 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
