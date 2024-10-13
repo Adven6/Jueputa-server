@@ -1,279 +1,105 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728842341035 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728842632223 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+[2J8[0mplayit (v0.15.26): 1728842635444 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+[2J8[0mplayit (v0.15.26): 1728842638519 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+[2J8[0mplayit (v0.15.26): 1728842641596 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728842656764 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+[2J8[0mplayit (v0.15.26): 1728842659884 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+[2J8[0mplayit (v0.15.26): 1728842662949 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+[2J8[0mplayit (v0.15.26): 1728842666058 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+[2J8[0mplayit (v0.15.26): 1728842669118 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+[2J8[0mplayit (v0.15.26): 1728842672194 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+[2J8[0mplayit (v0.15.26): 1728842675286 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+[2J8[0mplayit (v0.15.26): 1728842678360 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+[2J8[0mplayit (v0.15.26): 1728842681438 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+[2J8[0mplayit (v0.15.26): 1728842684510 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+[2J8[0mplayit (v0.15.26): 1728842687584 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842344107 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728842690723 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842347176 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728842693788 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842351481 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728842696899 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842354565 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728842699969 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842357644 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842360832 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842363900 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842366978 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842370044 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842373108 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842376573 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842379642 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842382712 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842385777 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842388851 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842392134 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842395197 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842398302 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842401373 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842404454 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842407573 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842410662 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842414153 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842418315 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842421387 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842425499 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842428562 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842431631 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842434695 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842437759 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842440823 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842443897 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842446968 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842450037 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842453169 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842456244 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842459308 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842462382 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842465468 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842470121 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842473193 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842476268 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842479331 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842482409 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842485471 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842488548 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842491619 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842495034 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842498161 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842501247 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842504362 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842507462 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842510545 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842513781 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842516866 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728842703050 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -281,98 +107,91 @@ paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728842532275 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728842718162 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842535345 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728842721240 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842538416 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728842724832 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842541478 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728842727900 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842544598 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728842730983 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842547664 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728842734059 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842550733 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728842737136 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842553810 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728842752244 tunnel running, 0 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842556885 tunnel running, 1 tunnels registered
+Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
+[2J8[0mplayit (v0.15.26): 1728842755328 tunnel running, 0 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842560014 tunnel running, 1 tunnels registered
+Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
+[2J8[0mplayit (v0.15.26): 1728842758395 tunnel running, 0 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842563085 tunnel running, 1 tunnels registered
+Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
+[2J8[0mplayit (v0.15.26): 1728842761466 tunnel running, 0 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842566163 tunnel running, 1 tunnels registered
+Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
+[2J8[0mplayit (v0.15.26): 1728842764533 tunnel running, 0 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842569242 tunnel running, 1 tunnels registered
+Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
+[2J8[0mplayit (v0.15.26): 1728842767618 tunnel running, 0 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842572313 tunnel running, 1 tunnels registered
+Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
+[2J8[0mplayit (v0.15.26): 1728842770684 tunnel running, 0 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842575413 tunnel running, 1 tunnels registered
+Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
+[2J8[0mplayit (v0.15.26): 1728842773754 tunnel running, 0 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842578484 tunnel running, 1 tunnels registered
+Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
+[2J8[0mplayit (v0.15.26): 1728842776815 tunnel running, 0 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842581565 tunnel running, 1 tunnels registered
+Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
+[2J8[0mplayit (v0.15.26): 1728842779891 tunnel running, 0 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842584732 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842587810 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
