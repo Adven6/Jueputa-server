@@ -1,197 +1,267 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728842632223 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728844031985 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842635444 tunnel running, 1 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844036115 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842638519 tunnel running, 1 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844039192 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842641596 tunnel running, 1 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844042268 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844045335 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844048418 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844051960 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844055036 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844058107 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844061176 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844064255 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844067410 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844070498 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844074376 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844077442 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844080512 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844083583 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844086754 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844089828 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844092970 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844096054 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844099168 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844102257 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844105330 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844108415 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844111528 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844115002 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844118068 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728842656764 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728844133162 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842659884 tunnel running, 1 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844136236 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842662949 tunnel running, 1 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844139311 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842666058 tunnel running, 1 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844143071 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842669118 tunnel running, 1 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844146138 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842672194 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842675286 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842678360 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842681438 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842684510 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (disabled)
-[2J8[0mplayit (v0.15.26): 1728842687584 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842690723 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842693788 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842696899 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842699969 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842703050 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728842718162 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728844161247 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842721240 tunnel running, 1 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844164343 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842724832 tunnel running, 1 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844167416 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842727900 tunnel running, 1 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844170490 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842730983 tunnel running, 1 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844173576 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842734059 tunnel running, 1 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844176648 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728842737136 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-bedrooms.gl.at.ply.gg:1667 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728842752244 tunnel running, 0 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728844191758 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
-[2J8[0mplayit (v0.15.26): 1728842755328 tunnel running, 0 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844194824 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
-[2J8[0mplayit (v0.15.26): 1728842758395 tunnel running, 0 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844197886 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
-[2J8[0mplayit (v0.15.26): 1728842761466 tunnel running, 0 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844200955 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
-[2J8[0mplayit (v0.15.26): 1728842764533 tunnel running, 0 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844204042 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
-[2J8[0mplayit (v0.15.26): 1728842767618 tunnel running, 0 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844207109 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
-[2J8[0mplayit (v0.15.26): 1728842770684 tunnel running, 0 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844210182 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
-[2J8[0mplayit (v0.15.26): 1728842773754 tunnel running, 0 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844213255 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
-[2J8[0mplayit (v0.15.26): 1728842776815 tunnel running, 0 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728844228362 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
-[2J8[0mplayit (v0.15.26): 1728842779891 tunnel running, 0 tunnels registered
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844231427 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/f689b1e0-d964-4d6f-ada6-3858d93956ef
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844234507 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728844237584 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+as-senate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
